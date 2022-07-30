@@ -1,2 +1,2 @@
 # SQL
-Various SQL Tasks and Practice
+Various SQL Tasks and Projects
